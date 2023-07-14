@@ -16,7 +16,8 @@ We will provide Jupyter Notebooks and example data sets on which the methods can
 
 Software tools:
 
-https://github.com/DurstewitzLab/dendPLRNN
+- https://github.com/DurstewitzLab/dendPLRNN
+- https://github.com/DurstewitzLab/GTF-shPLRNN
 
 A Jupyter notebook with code examples will be made available here before the workshop begins.
 
@@ -30,4 +31,6 @@ Background reading:
 https://arxiv.org/abs/2212.07892
 
 [4] Koppe et al. (2019). Koppe G, Toutounji H, Kirsch P, Lis S, Durstewitz D (2019) Identifying nonlinear dynamical systems via generative recurrent neural networks with applications to fMRI. PLOS Computational Biology 15(8): e1007263.
+
+[5] Hess, F., Monfared, Z., Brenner, M., & Durstewitz, D. (2023). Generalized Teacher Forcing for Learning Chaotic Dynamics. arXiv preprint arXiv:2306.04406. https://arxiv.org/abs/2306.04406
 
